@@ -1,0 +1,62 @@
+
+.index-list.data-v-4e628a72 {
+	padding: 20rpx;
+	border-bottom: 1rpx solid #eeeeee;
+}
+.index-list1 > view.data-v-4e628a72:first-child {
+	color: #999999;
+}
+.index-list1 > view:first-child image.data-v-4e628a72 {
+	width: 90rpx;
+	height: 90rpx;
+	border-radius: 100%;
+	margin-right: 10rpx;
+}
+.index-list1 > view.data-v-4e628a72:last-child {
+	background-color: #f4f4f4;
+	border-radius: 5rpx;
+	padding: 0 10rpx;
+}
+.index-list2.data-v-4e628a72 {
+	padding-top: 15rpx;
+	font-size: 32rpx;
+}
+.index-list3.data-v-4e628a72 {
+	padding-top: 15rpx;
+	position: relative;
+	overflow: hidden;
+}
+.index-list-playinfo.data-v-4e628a72 {
+	position: absolute;
+	background-color: rgba(51, 51, 51, 0.72);
+	color: #ffffff;
+	bottom: 8rpx;
+	right: 8rpx;
+	border-radius: 49rpx;
+	font-size: 22rpx;
+	padding: 0 12rpx;
+}
+.index-list-play.data-v-4e628a72 {
+	position: absolute;
+	font-size: 140rpx;
+	color: #ffffff;
+	z-index: 2;
+}
+.index-list3 > image.data-v-4e628a72 {
+	width: 100%;
+	border-radius: 20rpx;
+}
+.index-list4.data-v-4e628a72 {
+	padding: 15rpx 0;
+}
+.index-list4 view.data-v-4e628a72 {
+	color: #999999;
+}
+.index-list4 > view > view.data-v-4e628a72:first-child,
+.index-list4 > view > view > view.data-v-4e628a72 {
+	margin-right: 10rpx;
+}
+.index-list4 .active.data-v-4e628a72,.index-list4 .active>view.data-v-4e628a72{
+	color: #FFDF34;
+}
+
